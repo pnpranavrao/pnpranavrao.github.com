@@ -1,0 +1,19 @@
+.col-md-2
+{color:yellow;}
+
+.thumbnail
+{padding:0px;}
+
+
+#services>img {
+display: block;
+max-height: 100px;
+max-width: 100px;
+margin-right: auto;
+margin-left: auto;
+}
+
+#services>li{
+	display:inline;
+	padding:7px;
+} 
